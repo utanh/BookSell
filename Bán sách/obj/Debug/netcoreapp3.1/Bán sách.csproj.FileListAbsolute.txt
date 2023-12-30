@@ -1,0 +1,62 @@
+C:\Users\19522\Desktop\Bán sách\Bán sách\bin\Debug\netcoreapp3.1\Bán sách.exe
+C:\Users\19522\Desktop\Bán sách\Bán sách\bin\Debug\netcoreapp3.1\Bán sách.deps.json
+C:\Users\19522\Desktop\Bán sách\Bán sách\bin\Debug\netcoreapp3.1\Bán sách.runtimeconfig.json
+C:\Users\19522\Desktop\Bán sách\Bán sách\bin\Debug\netcoreapp3.1\Bán sách.runtimeconfig.dev.json
+C:\Users\19522\Desktop\Bán sách\Bán sách\bin\Debug\netcoreapp3.1\Bán sách.dll
+C:\Users\19522\Desktop\Bán sách\Bán sách\bin\Debug\netcoreapp3.1\Bán sách.pdb
+C:\Users\19522\Desktop\Bán sách\Bán sách\obj\Debug\netcoreapp3.1\Bán sách.csproj.AssemblyReference.cache
+C:\Users\19522\Desktop\Bán sách\Bán sách\obj\Debug\netcoreapp3.1\Bán_sách.Properties.Resources.resources
+C:\Users\19522\Desktop\Bán sách\Bán sách\obj\Debug\netcoreapp3.1\Bán sách.csproj.GenerateResource.cache
+C:\Users\19522\Desktop\Bán sách\Bán sách\obj\Debug\netcoreapp3.1\Bán sách.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19522\Desktop\Bán sách\Bán sách\obj\Debug\netcoreapp3.1\Bán sách.AssemblyInfoInputs.cache
+C:\Users\19522\Desktop\Bán sách\Bán sách\obj\Debug\netcoreapp3.1\Bán sách.AssemblyInfo.cs
+C:\Users\19522\Desktop\Bán sách\Bán sách\obj\Debug\netcoreapp3.1\Bán sách.csproj.CoreCompileInputs.cache
+C:\Users\19522\Desktop\Bán sách\Bán sách\obj\Debug\netcoreapp3.1\Bán sách.dll
+C:\Users\19522\Desktop\Bán sách\Bán sách\obj\Debug\netcoreapp3.1\Bán sách.pdb
+C:\Users\19522\Desktop\Bán sách\Bán sách\obj\Debug\netcoreapp3.1\Bán sách.genruntimeconfig.cache
+C:\Users\19522\Desktop\Bán sách\Bán sách\obj\Debug\netcoreapp3.1\Bán_sách.BookSell.resources
+C:\Users\19522\Desktop\Bán sách\Bán sách\obj\Debug\netcoreapp3.1\Bán_sách.BookInfo.resources
+C:\Users\19522\Desktop\Bán sách\Bán sách\obj\Debug\netcoreapp3.1\Bán_sách.TradeInfo.resources
+C:\Users\19522\Desktop\Bán sách\Bán sách\obj\Debug\netcoreapp3.1\Bán_sách.TradeHistory.resources
+C:\Users\19522\Desktop\Bán sách - Copy\Bán sách\obj\Debug\netcoreapp3.1\Bán sách.csproj.AssemblyReference.cache
+C:\Users\19522\Desktop\Bán sách - Copy\Bán sách\obj\Debug\netcoreapp3.1\Bán_sách.BookInfo.resources
+C:\Users\19522\Desktop\Bán sách - Copy\Bán sách\obj\Debug\netcoreapp3.1\Bán_sách.BookSell.resources
+C:\Users\19522\Desktop\Bán sách - Copy\Bán sách\obj\Debug\netcoreapp3.1\Bán_sách.Properties.Resources.resources
+C:\Users\19522\Desktop\Bán sách - Copy\Bán sách\obj\Debug\netcoreapp3.1\Bán_sách.TradeHistory.resources
+C:\Users\19522\Desktop\Bán sách - Copy\Bán sách\obj\Debug\netcoreapp3.1\Bán_sách.TradeInfo.resources
+C:\Users\19522\Desktop\Bán sách - Copy\Bán sách\obj\Debug\netcoreapp3.1\Bán sách.csproj.GenerateResource.cache
+C:\Users\19522\Desktop\Bán sách - Copy\Bán sách\obj\Debug\netcoreapp3.1\Bán sách.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19522\Desktop\Bán sách - Copy\Bán sách\obj\Debug\netcoreapp3.1\Bán sách.AssemblyInfoInputs.cache
+C:\Users\19522\Desktop\Bán sách - Copy\Bán sách\obj\Debug\netcoreapp3.1\Bán sách.AssemblyInfo.cs
+C:\Users\19522\Desktop\Bán sách - Copy\Bán sách\obj\Debug\netcoreapp3.1\Bán sách.csproj.CoreCompileInputs.cache
+C:\Users\19522\Desktop\Bán sách - Copy\Bán sách\obj\Debug\netcoreapp3.1\Bán sách.dll
+C:\Users\19522\Desktop\Bán sách - Copy\Bán sách\obj\Debug\netcoreapp3.1\Bán sách.pdb
+C:\Users\19522\Desktop\Bán sách - Copy\Bán sách\bin\Debug\netcoreapp3.1\Bán sách.exe
+C:\Users\19522\Desktop\Bán sách - Copy\Bán sách\bin\Debug\netcoreapp3.1\Bán sách.deps.json
+C:\Users\19522\Desktop\Bán sách - Copy\Bán sách\bin\Debug\netcoreapp3.1\Bán sách.runtimeconfig.json
+C:\Users\19522\Desktop\Bán sách - Copy\Bán sách\bin\Debug\netcoreapp3.1\Bán sách.runtimeconfig.dev.json
+C:\Users\19522\Desktop\Bán sách - Copy\Bán sách\bin\Debug\netcoreapp3.1\Bán sách.dll
+C:\Users\19522\Desktop\Bán sách - Copy\Bán sách\bin\Debug\netcoreapp3.1\Bán sách.pdb
+C:\Users\19522\Desktop\Bán sách - Copy\Bán sách\obj\Debug\netcoreapp3.1\Bán sách.genruntimeconfig.cache
+C:\Users\19522\Desktop\Bán sách\Bán sách\obj\Debug\netcoreapp3.1\Bán_sách.Profile.resources
+C:\Users\Admin\Downloads\Bán sách\Bán sách\bin\Debug\netcoreapp3.1\Bán sách.exe
+C:\Users\Admin\Downloads\Bán sách\Bán sách\bin\Debug\netcoreapp3.1\Bán sách.deps.json
+C:\Users\Admin\Downloads\Bán sách\Bán sách\bin\Debug\netcoreapp3.1\Bán sách.runtimeconfig.json
+C:\Users\Admin\Downloads\Bán sách\Bán sách\bin\Debug\netcoreapp3.1\Bán sách.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\Bán sách\Bán sách\bin\Debug\netcoreapp3.1\Bán sách.dll
+C:\Users\Admin\Downloads\Bán sách\Bán sách\bin\Debug\netcoreapp3.1\Bán sách.pdb
+C:\Users\Admin\Downloads\Bán sách\Bán sách\obj\Debug\netcoreapp3.1\Bán sách.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Bán sách\Bán sách\obj\Debug\netcoreapp3.1\Bán_sách.BookInfo.resources
+C:\Users\Admin\Downloads\Bán sách\Bán sách\obj\Debug\netcoreapp3.1\Bán_sách.BookSell.resources
+C:\Users\Admin\Downloads\Bán sách\Bán sách\obj\Debug\netcoreapp3.1\Bán_sách.Profile.resources
+C:\Users\Admin\Downloads\Bán sách\Bán sách\obj\Debug\netcoreapp3.1\Bán_sách.Properties.Resources.resources
+C:\Users\Admin\Downloads\Bán sách\Bán sách\obj\Debug\netcoreapp3.1\Bán_sách.TradeHistory.resources
+C:\Users\Admin\Downloads\Bán sách\Bán sách\obj\Debug\netcoreapp3.1\Bán_sách.TradeInfo.resources
+C:\Users\Admin\Downloads\Bán sách\Bán sách\obj\Debug\netcoreapp3.1\Bán sách.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Bán sách\Bán sách\obj\Debug\netcoreapp3.1\Bán sách.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Bán sách\Bán sách\obj\Debug\netcoreapp3.1\Bán sách.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Bán sách\Bán sách\obj\Debug\netcoreapp3.1\Bán sách.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Bán sách\Bán sách\obj\Debug\netcoreapp3.1\Bán sách.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Bán sách\Bán sách\obj\Debug\netcoreapp3.1\Bán sách.dll
+C:\Users\Admin\Downloads\Bán sách\Bán sách\obj\Debug\netcoreapp3.1\Bán sách.pdb
+C:\Users\Admin\Downloads\Bán sách\Bán sách\obj\Debug\netcoreapp3.1\Bán sách.genruntimeconfig.cache
